@@ -1,5 +1,3 @@
-// jQuery Plugin
-
 /*global jQuery */
 /*!
 * Lettering.JS 0.7.0
@@ -72,4 +70,3 @@
 	};
 
 })(jQuery);
-Contact GitHub API Training Shop Blog About
