@@ -1,5 +1,28 @@
 /* Styling */
 
 body{ 
-    background: #f7bee1;
+    background: none;
+    
+}
+
+/* styles.css */
+h1{
+  text-transform: lowercase;
+  letter-spacing: 2px;
+}
+
+span.word1{
+  color: red;
+}
+span.word2{
+  color: orange;
+}
+span.word3{
+  color:yellow;
+}
+span.word4{
+  color:green;
+}
+span.word5 {
+  color: blue;
 }
